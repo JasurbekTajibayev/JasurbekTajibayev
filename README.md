@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-### About me
+### 👨🏻‍💻  About me:
 <!--
 **JasurbekTajibayev/JasurbekTajibayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
